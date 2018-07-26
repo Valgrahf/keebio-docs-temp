@@ -8,7 +8,7 @@ Here's a list of parts needed for the build:
   * 2 Reset Switches \(included in kit\)
   * 2 4.7kΩ resistors \(included in kit\)
   * 2 TRRS Jacks \(included in kit\)
-  * 47 1N4148 diodes - through hole \(included in kit\) and [SMD diodes]((https://keeb.io/products/1n4148-diodes) supported
+  * 47 1N4148 diodes - through hole \(included in kit\) and [SMD diodes](https://keeb.io/products/1n4148-diodes) supported
 
 * 1 [Fourier Case Plates](https://keeb.io/collections/frontpage/products/fourier-keyboard-case-plates)
   * 28 M2 6mm screws \(included with plates\)
@@ -19,7 +19,7 @@ Here's a list of parts needed for the build:
 * 1 Micro USB Cable()
 * PCB-mount MX stabilizers()
 * MX or Alps compatible keyswitches
-* WS2812B/SK RGB LED strip \(optional, for underglow\)
+* [WS2812B Compatible RGB LED strip](https://keeb.io/collections/frontpage/products/rgb-led-strips-sk6812-ws2812b-compatible) \(optional, for underglow\)
 
 ## Build Steps
 
